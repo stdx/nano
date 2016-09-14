@@ -1,0 +1,14 @@
+/target
+/data
+*~
+.project
+.settings
+target
+.classpath
+.eclipse
+.factorypath
+log.txt
+.vagrant/
+dependency-reduced-pom.xml
+/store
+application.properties
